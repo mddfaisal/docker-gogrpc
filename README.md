@@ -1,2 +1,2 @@
 # docker-gogrpc
-Protocol buffers and Golang
+To generate golang code from proto files
